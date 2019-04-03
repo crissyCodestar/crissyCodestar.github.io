@@ -1,0 +1,56 @@
+ [
+   {
+     "id": 1,
+     "title": "Untitled",
+     "description": "Acrylic on Canvas",
+     "cols": 2,
+     "img": "https://s3.amazonaws.com/cmg-port-imgs/dance.png"
+   },
+   {
+     "id": 2,
+     "title": "Shell",
+     "description": "Oil on Canvas",
+     "img": "https://s3.amazonaws.com/cmg-port-imgs/prehistoric.png"
+   },
+   {
+     "id": 3,
+     "title": "Tunnel",
+     "description": "Oil on Canvas",
+
+     "img": "https://s3.amazonaws.com/cmg-port-imgs/smoke.png"
+   },
+   {
+      "id": 4,
+      "title": "Touch",
+      "description": "Acrylic on Canvas",
+      "cols": 2,
+      "img": "https://s3.amazonaws.com/cmg-port-imgs/touch.png"
+    },
+   {
+      "id": 5,
+      "title": "Illusive Woman",
+      "description": "Acrylic on Canvas",
+      "cols": 2,
+      "img": "https://s3.amazonaws.com/cmg-port-imgs/art1_b.png"
+    },
+    {
+      "id": 6,
+      "title": "",
+      "description": "Acrylic on Plywood",
+
+      "img": "https://s3.amazonaws.com/cmg-port-imgs/graffiti.png"
+    },
+    {
+      "id": 7,
+      "title": "Untitled",
+      "description": "Acrylic on Canvas",
+      "img": "https://s3.amazonaws.com/cmg-port-imgs/art2_b.png"
+    },
+    {
+      "id": 8,
+      "title": "Tunnel",
+      "description": "Acrylic on Canvas",
+      "cols": 2,
+      "img": "https://s3.amazonaws.com/cmg-port-imgs/art6_b.png"
+    }
+]

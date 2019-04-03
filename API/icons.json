@@ -1,0 +1,30 @@
+[{
+  "id": 1,
+  "title": "Twitter",
+  "url": "https://twitter.com/CrissyCodester",
+  "img": "https://s3.amazonaws.com/cmg-port-imgs/icons/twitter.png"
+},
+{
+  "id": 2,
+  "title": "Slack",
+  "url": "https://c4qalumni.slack.com/messages/DBQTY982C",
+  "img": "https://s3.amazonaws.com/cmg-port-imgs/icons/slack.png"
+},
+{
+  "id": 3,
+  "title": "LinkedIn",
+  "url": "http://linkedin.com/in/grantcrystal/",
+  "img": "https://s3.amazonaws.com/cmg-port-imgs/icons/linkedin.png"
+},
+{
+  "id": 4,
+  "title": "Github",
+  "url": "http://github.com/crissyCodestar",
+  "img": "https://s3.amazonaws.com/cmg-port-imgs/icons/github.png"
+},
+{
+  "id": 5,
+  "title": "iCloud",
+  "url": "mailto:crystalgrant82@icloud.com",
+  "img": "https://s3.amazonaws.com/cmg-port-imgs/icons/email.png"
+}]
